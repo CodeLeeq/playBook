@@ -1,0 +1,12 @@
+.ipad{
+    border: 30px solid;
+    border-color: #000000;
+    border-radius: 15px;
+    border-bottom: 2%;
+     border-top: 2%;
+    height: 450px;
+    width: 320px;
+    background-color: rgb(177, 177, 238);
+    margin-top: 25px;
+    margin-left: 150px;
+}
